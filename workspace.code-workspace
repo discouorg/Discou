@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+        	"name": "React Native Application",
+            "path": "app"
+        },
+        {
+        	"name": "CI configuration"
+            "path": "ci"
+        },
+        {
+        	"name": "Application server",
+            "path": "server"
+        },
+        {
+        	"name": "Settings",
+        	"path": "settings"
+        }
+    ],
+    "settings": {
+        "files.autoSave": "afterDelay"
+    }
+}
