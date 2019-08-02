@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        ".baker/generators/app/templates/server/package.json",
+        "app/package.json",
+        "package.json",
+        "server/package.json"
+      ]
+    }
+  }
+}
