@@ -20,7 +20,7 @@
     "parse-dashboard": "^1.0.13",
     "parse-graphql-client": "^0.2.0",
     "parse-graphql-server": "^0.3.0",
-    "parse-server": "^2.2.25-beta.1"
+    "parse-server": "^4.1.0"
   },
   "devDependencies": {
     "babel-jest": "^17.0.0",
